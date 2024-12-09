@@ -9,9 +9,9 @@
 This repository contains our data analysis project focusing on covid-19 dataset. The analysis includes data cleaning, exploratory data analysis, and insights derived from the dataset.
 
 ## Project Structure
-- **Analysis Notebook**: [analysis.ipynb](./analysis.ipynb)
-- **Cleaned Dataset**: [cleaned-dataset.csv](./cleaned-covid-dataset.csv)
-- **Google Colab**: [view on colab](https://colab.research.google.com/drive/1kOD1S141p49BK3DTK6K61Pj1XUdSKwBW?usp=sharing)
+- **Analysis Notebook**: [Analysis](./analysis.ipynb)
+- **Cleaned Dataset**: [Cleaned dataset](./cleaned-covid-dataset.csv)
+- **Google Colab**: [View on Colab](https://colab.research.google.com/drive/1kOD1S141p49BK3DTK6K61Pj1XUdSKwBW?usp=sharing)
 
 ## Key Features
 - Data cleaning and preprocessing
@@ -26,10 +26,7 @@ This repository contains our data analysis project focusing on covid-19 dataset.
 - Matplotlib/Seaborn
 - Google Colab
 
-## Team Members
+## Group Members
 - Ergashev Jasurbek
 - Mukhtor Eshimov
 - Munira Rakhmatova
-
-## Summary
-[Summary goes here]
